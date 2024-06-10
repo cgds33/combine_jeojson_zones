@@ -6,5 +6,4 @@ Creates a single zone by combining multipolygon geometry in the geojson file
 
 ```
 python combine_zones.py --input input.geojson --output output.geojson
-
 ```
